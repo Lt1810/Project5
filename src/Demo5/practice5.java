@@ -6,6 +6,10 @@ public class practice5 {
 		System.out.println("GetHub Lecture 5...");
 		System.out.println("GetHub Lecture 5...");
 		System.out.println("GetHub Lecture 5...");
+		
+		
+		
+		
 	}
 	
 }
