@@ -5,6 +5,7 @@ public class practice5 {
 		System.out.println("test...");
 		System.out.println("GetHub Lecture 5...");
 		System.out.println("GetHub Lecture 5...");
+		System.out.println("GetHub Lecture 5...");
 	}
 	
 }
